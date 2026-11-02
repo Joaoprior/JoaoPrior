@@ -7,7 +7,7 @@
 #
 Me chamo João Vitor Prior Rosa, tenho 27 anos e moro em São Paulo – SP. Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Tenho interesse em programação, desenvolvimento web e hardware, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. Gosto de compartilhar conhecimentos, desenvolver projetos e encontrar soluções criativas por meio da tecnologia.
  
-#
+
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
